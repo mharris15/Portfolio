@@ -11,7 +11,7 @@ This repository showcases my portfolio website created using Blazor Client, a we
 - [Technologies](#technologies)
 - [License](#license)
 
-## About 
+## About  
 
 This portfolio website serves as a showcase of my skills, projects, and experiences. It provides a visually appealing and user-friendly interface to present my work to potential employers, clients, or collaborators. The website is built with Blazor Client, a powerful technology that allows me to create dynamic web applications using C# and .NET.
 
