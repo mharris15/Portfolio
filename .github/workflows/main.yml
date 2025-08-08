@@ -34,10 +34,10 @@ jobs:
     - name: Add .nojekyll file
       run: touch Release/wwwroot/.nojekyll
 
-    - name: Deploy to GitHub Pages
-      uses: JamesIves/github-pages-deploy-action@v4
-      with:
-        token: ${{ secrets.GITHUB_TOKEN }}
-        BRANCH: gh-pages
-        FOLDER: Release/wwwroot
-        CLEAN: true
+- name: Deploy to GitHub Pages
+  uses: JamesIves/github-pages-deploy-action@v4
+  with:
+    token: ${{ secrets.GITHUB_TOKEN }}
+    branch: gh-pages
+    folder: Release/wwwroot
+    clean: true
