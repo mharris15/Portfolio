@@ -39,5 +39,5 @@ jobs:
       with:
         TOKEN: ${{ secrets.GITHUB_TOKEN }}
         BRANCH: gh-pages
-        FOLDER: Release/wwwroot
+        FOLDER: Release
         CLEAN: true
