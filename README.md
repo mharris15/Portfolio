@@ -1,6 +1,6 @@
 # Portfolio - Blazor
 
-[![Portfolio Deployment](https://github.com/mharris15/Portfolio/actions/workflows/main.yml/badge.svg?branch=master)](https://github.com/mharris15/Portfolio/actions/workflows/main.yml)
+[![Portfolio Deployment](https://github.com/mharris15/Portfolio/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/mharris15/Portfolio/actions/workflows/main.yml)
 
 This repository showcases my portfolio website created using Blazor Client, a web framework for building interactive user interfaces with .NET. 
 
